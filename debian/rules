@@ -16,5 +16,7 @@ override_dh_install:
 	install -m 644 guideos-media-converter.png debian/$(PACKAGE)/usr/share/icons/hicolor/256x256/guideos-media-converter.png
 	install -m 644 guideos-media-converter.svg debian/$(PACKAGE)/usr/share/icons/hicolor/scalable/apps/guideos-media-converter.svg
 
+	./create_desktop_files.sh
+
 
 	dh_install
