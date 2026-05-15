@@ -1,5 +1,5 @@
 
-# GuideOS Media Konverter  
+# GuideOS Media-Converter  
 Ein moderner, einsteigerfreundlicher Medien‑Konverter für Linux – entwickelt mit **GTK4** und **libadwaita**.
 
 ## Entwickler: 
