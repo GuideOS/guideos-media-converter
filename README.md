@@ -48,7 +48,7 @@ evilware666 & Helga
 
 ## ▶️ Starten
 ```bash
-python3 mediakonverter.py
+python3 guideos-media-converter.py
 ```
 
 ---
