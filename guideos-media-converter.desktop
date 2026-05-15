@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=GuideOS Medien-Konverter
+Name=GuideOS Media-Converter
 Comment=Konvertiere Bilder, Musik und Dokumente in andere Formate
-Exec=/bin/guideos-media-konverter.sh
-Icon=/usr/share/pixmaps/guideos-media-konverter.png
+Exec=/bin/guideos-media-converter.py
+Icon=/usr/share/pixmaps/guideos-media-converter.py.png
 Terminal=false
 Type=Application
 Categories=Utility;AudioVideo;Office;
