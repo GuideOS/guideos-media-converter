@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GuideOS Medien-Konverter
+Comment=Konvertiere Bilder, Musik und Dokumente in andere Formate
+Exec=/bin/guideos-media-konverter.sh
+Icon=/usr/share/pixmaps/guideos-media-konverter.png
+Terminal=false
+Type=Application
+Categories=Utility;AudioVideo;Office;
+StartupNotify=true
+
