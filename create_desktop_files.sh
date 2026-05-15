@@ -8,7 +8,7 @@ mkdir -p debian/guideos-media-converter/usr/share/applications
 cat > debian/guideos-media-converter/usr/share/applications/guideos-media-converter.desktop <<EOL
 [Desktop Entry]
 Version=1.0
-Name=GuideOS Media Converter
+Name=GuideOS Media-Converter
 Comment=Media conversion tool for GuideOS
 Name[de]=GuideOS Medienkonverter
 Comment[de]=Medienkonvertierungstool für GuideOS
